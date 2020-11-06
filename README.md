@@ -1,5 +1,9 @@
 # ModernWebLive #4 - Платформа Веб
 
+## Обучающий курс по PWA (на английском)
+
+* [Progressive Web Apps Training](http://bit.ly/learn-PWA)
+
 ## Документация и статьи на русском (включая переводы)
 
 * [WorkBox: ваш toolkit в мире сервис-воркеров](https://habr.com/ru/company/domclick/blog/523106/)
@@ -13,6 +17,7 @@
 * [Let web applications be file handlers (File Handling API)](https://web.dev/file-handling/)
 * [Reading and writing files and directories with the browser-nativefs library (File System Access API)](https://web.dev/browser-nativefs/)
 * [Service worker caching and HTTP caching](https://web.dev/service-worker-caching-and-http-caching/)
+* [Make your PWA feel more like an app](https://web.dev/app-like-pwas/)
 
 ## Площадки для обсуждения
 
@@ -29,5 +34,6 @@
 
 * [Как мы запустили offline-версию сайта RG.RU](https://habr.com/ru/company/oleg-bunin/blog/348150/)
 * [How ZDF created a video PWA with offline and dark mode (EN)](https://web.dev/zdf/)
-
-
+* [How OpenSooq increased engagement by investing in the web (EN)](https://web.dev/opensooq-case-study/)
+* [OYO Lite: a TWA with the best of web and Android apps](https://web.dev/oyo-lite-twa/)
+* [How Goibibo's PWA improved conversions by 60%](https://web.dev/goibibo/)
