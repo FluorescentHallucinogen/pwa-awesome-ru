@@ -24,11 +24,13 @@
 * [PWA - русскоязычное сообщество в Telegram](https://t.me/pwa_ru)
 * [PWA - глобальное сообщество в Slack (EN)](https://aka.ms/pwa-slack)
 
-## PWA в популярных фреймворках (EN)
+## PWA в популярных фреймворках и инструментах (EN)
 
 * [Vue](https://cli.vuejs.org/core-plugins/pwa.html)
 * [React](https://create-react-app.dev/docs/making-a-progressive-web-app/)
 * [Angular](https://angular.io/guide/service-worker-intro)
+* [Gatsby](https://www.gatsbyjs.com/docs/progressive-web-app/)
+* [NextJS](https://github.com/shadowwalker/next-pwa)
 
 ## Истории успеха
 
