@@ -1,4 +1,4 @@
-# ModernWebLive #4 - Платформа Веб
+# ModernWebLive #4: PWA 5 лет
 
 ## Обучающий курс по PWA (на английском)
 
