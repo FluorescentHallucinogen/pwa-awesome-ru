@@ -18,6 +18,7 @@
 * [Reading and writing files and directories with the browser-nativefs library (File System Access API)](https://web.dev/browser-nativefs/)
 * [Service worker caching and HTTP caching](https://web.dev/service-worker-caching-and-http-caching/)
 * [Make your PWA feel more like an app](https://web.dev/app-like-pwas/)
+* [Patterns for promoting PWA installation](https://web.dev/promote-install/)
 
 ## Площадки для обсуждения
 
