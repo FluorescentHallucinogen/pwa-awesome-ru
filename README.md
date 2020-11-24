@@ -7,6 +7,8 @@
 * https://tomayac.github.io/pwa-feature-detector/
 * https://jakearchibald.github.io/isserviceworkerready/
 * https://permission.site
+* https://gauntface.github.io/simple-push-demo/
+* https://tests.peter.sh/notification-generator/
 * https://html5test.com
 * https://caniuse.com
 * https://chromestatus.com
