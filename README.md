@@ -52,6 +52,7 @@
 ## PWA в популярных фреймворках и инструментах (EN)
 
 * [Web Components (LitElement)](https://github.com/pwa-builder/pwa-starter)
+* [Web Components (Stencil)](https://stenciljs.com/pwa/)
 * [Vue](https://cli.vuejs.org/core-plugins/pwa.html)
 * [React](https://create-react-app.dev/docs/making-a-progressive-web-app/)
 * [Angular](https://angular.io/guide/service-worker-intro)
