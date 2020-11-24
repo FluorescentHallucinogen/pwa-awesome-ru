@@ -22,6 +22,12 @@
 * [Web Push Book](https://web-push-book.gauntface.com)
 * [Service Worker Cookbook](https://serviceworke.rs)
 
+## Подборки Awesome PWA
+
+* https://github.com/hemanth/awesome-pwa
+* https://github.com/TalAter/awesome-progressive-web-apps
+* https://github.com/hzzheng/awesome-pwa
+
 ## Документация и статьи на русском (включая переводы)
 
 * [WorkBox: ваш toolkit в мире сервис-воркеров](https://habr.com/ru/company/domclick/blog/523106/)
