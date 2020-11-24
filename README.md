@@ -33,6 +33,8 @@
 * https://developers.google.com/web/tools/lighthouse
 * https://webhint.io
 * https://developers.google.com/web/tools/workbox
+* https://pwabuilder.com
+* https://github.com/GoogleChromeLabs/bubblewrap
 
 ## Документация и статьи на русском (включая переводы)
 
