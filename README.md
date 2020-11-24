@@ -1,8 +1,26 @@
 # ModernWebLive #4: PWA 5 лет
 
-## Обучающий курс по PWA (на английском)
+## Web API и тесты поддержки Web API в браузерах
 
-* [Progressive Web Apps Training](http://bit.ly/learn-PWA)
+* https://whatwebcando.today
+* https://whatpwacando.today
+* https://tomayac.github.io/pwa-feature-detector/
+* https://jakearchibald.github.io/isserviceworkerready/
+* https://permission.site
+* https://html5test.com
+* https://caniuse.com
+* https://chromestatus.com
+* https://goo.gle/fugu-api-tracker
+
+## Обучающие курсы по PWA (на английском)
+
+* [Progressive Web Apps Training на web.dev](https://web.dev/progressive-web-apps/)
+* [Progressive Web App Training на YouTube](https://youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
+
+## Карманные справочники
+
+* [Web Push Book](https://web-push-book.gauntface.com)
+* [Service Worker Cookbook](https://serviceworke.rs)
 
 ## Документация и статьи на русском (включая переводы)
 
@@ -27,6 +45,7 @@
 
 ## PWA в популярных фреймворках и инструментах (EN)
 
+* [Web Components (LitElement)](https://github.com/pwa-builder/pwa-starter)
 * [Vue](https://cli.vuejs.org/core-plugins/pwa.html)
 * [React](https://create-react-app.dev/docs/making-a-progressive-web-app/)
 * [Angular](https://angular.io/guide/service-worker-intro)
