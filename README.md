@@ -28,6 +28,12 @@
 * https://github.com/TalAter/awesome-progressive-web-apps
 * https://github.com/hzzheng/awesome-pwa
 
+## Инструменты
+
+* https://developers.google.com/web/tools/lighthouse
+* https://webhint.io
+* https://developers.google.com/web/tools/workbox
+
 ## Документация и статьи на русском (включая переводы)
 
 * [WorkBox: ваш toolkit в мире сервис-воркеров](https://habr.com/ru/company/domclick/blog/523106/)
