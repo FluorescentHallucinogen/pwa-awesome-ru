@@ -9,6 +9,7 @@
 * https://permission.site
 * https://gauntface.github.io/simple-push-demo/
 * https://tests.peter.sh/notification-generator/
+* https://killer-marmot.appspot.com
 * https://html5test.com
 * https://caniuse.com
 * https://chromestatus.com
