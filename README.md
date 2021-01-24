@@ -160,3 +160,4 @@ MO — установка приложения доступна только н�
 
 * Samsung Galaxy Store
 * Microsoft Store
+* KaiStore
