@@ -92,6 +92,7 @@
 * https://dns-shop.ru (https://play.google.com/store/apps/details?id=com.es.dns) [T]
 * https://hi-chef.ru (https://play.google.com/store/apps/details?id=ru.hi_chef.twa) [T]
 * https://m.sportmaster.ru
+* https://meduza.io
 * https://m.habr.com
 * https://badoo.com (https://play.google.com/store/apps/details?id=com.badoo.twa) [MO] [T]
 * https://zarplata.ru [MO]
