@@ -136,7 +136,7 @@
 * https://web.telegram.org
 * https://m.aliexpress.com [MO]
 * https://open.spotify.com
-* https://www.tiktok.com [MO]
+* https://www.tiktok.com
 * https://tinder.com
 * https://pinterest.com (https://play.google.com/store/apps/details?id=com.pinterest.twa) [T]
 * https://app.starbucks.com
