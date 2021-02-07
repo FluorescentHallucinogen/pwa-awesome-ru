@@ -38,6 +38,8 @@
 * https://developers.google.com/web/tools/workbox
 * https://pwabuilder.com
 * https://github.com/GoogleChromeLabs/bubblewrap
+* https://maskable.app
+* https://maskable.app/editor
 
 ## Документация и статьи на русском (включая переводы)
 
