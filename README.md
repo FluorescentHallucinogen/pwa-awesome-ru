@@ -139,6 +139,7 @@
 * https://m.aliexpress.com [MO]
 * https://open.spotify.com
 * https://www.tiktok.com
+* https://m.twitch.tv
 * https://tinder.com
 * https://pinterest.com (https://play.google.com/store/apps/details?id=com.pinterest.twa) [T]
 * https://app.starbucks.com
