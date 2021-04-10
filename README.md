@@ -138,6 +138,7 @@
 * https://web.telegram.org
 * https://m.aliexpress.com [MO]
 * https://open.spotify.com
+* https://soundcloud.com [DO]
 * https://www.tiktok.com
 * https://m.twitch.tv
 * https://tinder.com
@@ -146,11 +147,13 @@
 * https://dev.to
 * https://youporn.com
 
-T — приложение доступно также в виде TWA
+T (TWA) — приложение доступно также в виде Trusted Web Activity
 
-AO — установка приложения доступна только после авторизации
+AO (Auth only) — установка приложения доступна только после авторизации
 
-MO — установка приложения доступна только на мобильных устройствах
+MO (Mobile only) — установка приложения доступна только на мобильных устройствах
+
+DO (Desktop only) — установка приложения доступна только на настольных компьютерах
 
 ## Каталоги PWA
 
