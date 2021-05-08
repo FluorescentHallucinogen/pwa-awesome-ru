@@ -122,6 +122,7 @@
 * https://finance.rambler.ru
 
 * https://m.vk.com
+* https://youla.ru
 * https://hi-tech.mail.ru [MO]
 * https://news.mail.ru [MO]
 * https://pogoda.mail.ru [MO]
