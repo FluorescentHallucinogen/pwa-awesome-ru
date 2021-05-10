@@ -31,6 +31,10 @@
 * https://github.com/TalAter/awesome-progressive-web-apps
 * https://github.com/hzzheng/awesome-pwa
 
+## На кого подписаться в Twitter
+
+https://twitter.com/i/lists/1008400902313693184
+
 ## Инструменты
 
 * https://developers.google.com/web/tools/lighthouse
