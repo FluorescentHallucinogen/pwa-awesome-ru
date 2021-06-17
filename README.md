@@ -126,6 +126,7 @@ https://twitter.com/i/lists/1008400902313693184
 * https://finance.rambler.ru
 
 * https://m.vk.com
+* https://delivery-club.ru
 * https://youla.ru
 * https://hi-tech.mail.ru [MO]
 * https://news.mail.ru [MO]
