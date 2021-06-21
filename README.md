@@ -7,6 +7,7 @@
 * https://tomayac.github.io/pwa-feature-detector/
 * https://jakearchibald.github.io/isserviceworkerready/
 * https://permission.site
+* https://immersive-web.github.io/webxr-samples/tests/permission-request.html
 * https://gauntface.github.io/simple-push-demo/
 * https://tests.peter.sh/notification-generator/
 * https://killer-marmot.appspot.com
