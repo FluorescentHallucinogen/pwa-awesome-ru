@@ -15,6 +15,17 @@
 * https://chromestatus.com
 * https://goo.gle/fugu-api-tracker
 
+## Инструменты
+
+* https://developers.google.com/web/tools/lighthouse
+* https://webhint.io
+* https://developers.google.com/web/tools/workbox
+* https://pwabuilder.com
+* https://github.com/GoogleChromeLabs/bubblewrap
+* https://maskable.app
+* https://maskable.app/editor
+* https://play.google.com/store/apps/details?id=dev.conn.assetlinkstool
+
 ## Обучающие курсы по PWA (на английском)
 
 * [Progressive Web Apps Training на web.dev](https://web.dev/progressive-web-apps/)
@@ -34,16 +45,6 @@
 ## На кого подписаться в Twitter
 
 https://twitter.com/i/lists/1008400902313693184
-
-## Инструменты
-
-* https://developers.google.com/web/tools/lighthouse
-* https://webhint.io
-* https://developers.google.com/web/tools/workbox
-* https://pwabuilder.com
-* https://github.com/GoogleChromeLabs/bubblewrap
-* https://maskable.app
-* https://maskable.app/editor
 
 ## Документация и статьи на русском (включая переводы)
 
