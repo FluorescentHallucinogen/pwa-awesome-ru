@@ -19,6 +19,12 @@
 * https://kangax.github.io/compat-table/es6/
 * https://github.com/PWA-POLICE/pwa-bugs
 
+## Источники информации
+
+* https://twitter.com/intenttoship
+* https://chromium-review.googlesource.com
+* https://crbug.com
+
 ## Инструменты
 
 * https://developers.google.com/web/tools/lighthouse
