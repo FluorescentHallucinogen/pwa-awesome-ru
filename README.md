@@ -16,6 +16,7 @@
 * https://caniuse.com
 * https://chromestatus.com
 * https://goo.gle/fugu-api-tracker
+* https://kangax.github.io/compat-table/es6/
 * https://github.com/PWA-POLICE/pwa-bugs
 
 ## Инструменты
