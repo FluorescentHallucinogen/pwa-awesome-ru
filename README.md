@@ -12,6 +12,7 @@
 * https://tests.peter.sh/notification-generator/
 * https://killer-marmot.appspot.com
 * https://html5test.com
+* https://wpt.fyi
 * https://caniuse.com
 * https://chromestatus.com
 * https://goo.gle/fugu-api-tracker
