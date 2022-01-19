@@ -164,6 +164,7 @@ https://twitter.com/i/lists/1008400902313693184
 * https://app.starbucks.com
 * https://dev.to
 * https://youporn.com
+* https://vscode.dev
 
 T (TWA) — приложение доступно также в виде Trusted Web Activity
 
