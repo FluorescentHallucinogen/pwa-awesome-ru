@@ -115,6 +115,7 @@ https://twitter.com/i/lists/1008400902313693184
 * https://m.habr.com
 * https://badoo.com (https://play.google.com/store/apps/details?id=com.badoo.twa) [MO] [T]
 * https://zarplata.ru [MO]
+* https://kuvalda.ru (https://play.google.com/store/apps/details?id=ru.kuvalda.www.twa, https://apps.apple.com/ru/app/id1611719649)
 * https://ria.ru
 
 * https://m.2gis.ru [MO]
