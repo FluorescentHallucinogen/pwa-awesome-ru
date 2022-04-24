@@ -25,6 +25,7 @@
 * https://chromium-review.googlesource.com
 * https://chromiumdash.appspot.com
 * https://crbug.com
+* https://source.chromium.org
 
 ## Инструменты
 
