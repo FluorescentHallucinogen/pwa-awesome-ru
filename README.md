@@ -53,6 +53,7 @@
 * https://github.com/hemanth/awesome-pwa
 * https://github.com/TalAter/awesome-progressive-web-apps
 * https://github.com/hzzheng/awesome-pwa
+* https://pwaresources.dev
 
 ## На кого подписаться в Twitter
 
