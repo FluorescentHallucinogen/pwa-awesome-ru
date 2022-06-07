@@ -92,6 +92,7 @@ https://twitter.com/i/lists/1008400902313693184
 * [Angular](https://angular.io/guide/service-worker-intro)
 * [Gatsby](https://www.gatsbyjs.com/docs/progressive-web-app/)
 * [NextJS](https://github.com/shadowwalker/next-pwa)
+* [Flutter](https://docs.flutter.dev/deployment/web)
 
 ## Истории успеха
 
