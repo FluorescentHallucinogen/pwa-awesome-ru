@@ -8,8 +8,10 @@
 * https://jakearchibald.github.io/isserviceworkerready/
 * https://permission.site
 * https://immersive-web.github.io/webxr-samples/tests/permission-request.html
-* https://gauntface.github.io/simple-push-demo/
 * https://tests.peter.sh/notification-generator/
+* https://tests.peter.sh/push-message-generator/
+* https://tests.peter.sh/push-encryption-verifier/
+* https://gauntface.github.io/simple-push-demo/
 * https://killer-marmot.appspot.com
 * https://html5test.com
 * https://wpt.fyi
