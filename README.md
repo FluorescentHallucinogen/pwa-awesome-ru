@@ -39,6 +39,7 @@
 * https://maskable.app
 * https://maskable.app/editor
 * https://play.google.com/store/apps/details?id=dev.conn.assetlinkstool
+* https://github.com/web-push-libs/
 
 ## Обучающие курсы по PWA (на английском)
 
