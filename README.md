@@ -47,6 +47,8 @@
 * [Learn PWA на web.dev](https://web.dev/learn/pwa/)
 * [Progressive Web App Training на YouTube](https://youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 * [#30DaysOfPWA](https://microsoft.github.io/win-student-devs/#/30DaysOfPWA/)
+* [PWA на MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+* [PWA на Microsoft Edge Docs](https://docs.microsoft.com/ru-ru/microsoft-edge/progressive-web-apps-chromium/)
 
 ## Карманные справочники
 
