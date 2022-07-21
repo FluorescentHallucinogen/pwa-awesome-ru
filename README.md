@@ -41,6 +41,28 @@
 * https://play.google.com/store/apps/details?id=dev.conn.assetlinkstool
 * https://github.com/web-push-libs/
 
+## Полезные веб-компоненты
+
+### Нативные
+
+* https://github.com/ProgressiveWebComponents/pwa-install
+* https://npmjs.com/package/@progressivewebcomponents/pwa-install
+* https://pwa-install.web.app/vanilla/
+* https://play.google.com/store/apps/details?id=app.web.pwainstall
+
+* https://github.com/khmyznikov/pwa-install
+* https://npmjs.com/package/@khmyznikov/pwa-install
+* https://www.khmyznikov.com/pwa-install/
+
+* https://github.com/pwa-builder/PWABuilder/tree/main/components/pwa-install
+* https://npmjs.com/package/@pwabuilder/pwainstall
+
+* https://github.com/pwa-builder/PWABuilder/tree/main/components/
+
+### React
+
+* https://github.com/chrisdancee/react-ios-pwa-prompt
+
 ## Обучающие курсы по PWA (на английском)
 
 * [Progressive Web Apps Training на web.dev](https://web.dev/progressive-web-apps/)
