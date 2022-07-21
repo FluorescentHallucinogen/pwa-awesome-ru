@@ -64,7 +64,9 @@
 
 ## На кого подписаться в Twitter
 
-https://twitter.com/i/lists/1008400902313693184
+* https://twitter.com/i/lists/1008400902313693184
+* https://twitter.com/i/communities/1457807184436334608
+* https://twitter.com/i/communities/1461802928059133955
 
 ## Конференции
 
