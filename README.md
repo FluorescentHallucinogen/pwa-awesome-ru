@@ -44,7 +44,9 @@
 ## Обучающие курсы по PWA (на английском)
 
 * [Progressive Web Apps Training на web.dev](https://web.dev/progressive-web-apps/)
+* [Learn PWA на web.dev](https://web.dev/learn/pwa/)
 * [Progressive Web App Training на YouTube](https://youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
+* [#30DaysOfPWA](https://microsoft.github.io/win-student-devs/#/30DaysOfPWA/)
 
 ## Карманные справочники
 
@@ -61,6 +63,10 @@
 ## На кого подписаться в Twitter
 
 https://twitter.com/i/lists/1008400902313693184
+
+## Конференции
+
+* [PWA Summit](https://pwasummit.org)
 
 ## Документация и статьи на русском (включая переводы)
 
