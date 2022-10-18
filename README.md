@@ -25,6 +25,7 @@
 ## Источники информации
 
 * https://twitter.com/intenttoship
+* https://bit.ly/blinkintents
 * https://chromium-review.googlesource.com
 * https://chromiumdash.appspot.com
 * https://crbug.com
