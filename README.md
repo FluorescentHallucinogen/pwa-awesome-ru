@@ -88,9 +88,11 @@
 
 ## Площадки для обсуждения
 
-* [PWA — русскоязычное сообщество в Telegram](https://t.me/pwa_ru)
-* [PWA — глобальное сообщество в Slack (EN)](https://aka.ms/pwa-slack)
-* [PWABuilder — глобальное сообщество в Discord (EN)](https://aka.ms/pwabuilderdiscord)
+* https://t.me/pwa_ru — русскоязычное сообщество PWA в Telegram
+* https://progressive-web-apps.slack.com — глобальное сообщество PWA в Slack
+* https://aka.ms/pwabuilderdiscord — глобальное сообщество PWABuilder в Discord
+* https://chromiumdev.slack.com — глобальное сообщество Chromium в Slack
+* https://chromium.slack.com — глобальное сообщество Chromium в Slack
 
 ## На кого подписаться в Twitter
 
