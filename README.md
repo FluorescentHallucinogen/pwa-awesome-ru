@@ -86,6 +86,12 @@
 * https://github.com/hzzheng/awesome-pwa
 * https://pwaresources.dev
 
+## Площадки для обсуждения
+
+* [PWA — русскоязычное сообщество в Telegram](https://t.me/pwa_ru)
+* [PWA — глобальное сообщество в Slack (EN)](https://aka.ms/pwa-slack)
+* [PWABuilder — глобальное сообщество в Discord (EN)](https://aka.ms/pwabuilderdiscord)
+
 ## На кого подписаться в Twitter
 
 * https://twitter.com/i/lists/1008400902313693184
@@ -114,11 +120,6 @@
 ## Лучшие практики
 * [Patterns for promoting PWA installation](https://web.dev/promote-install/)
 * [Patterns for making fluent permission requests](https://youtu.be/riKmez3sHaM)
-
-## Площадки для обсуждения
-
-* [PWA - русскоязычное сообщество в Telegram](https://t.me/pwa_ru)
-* [PWA - глобальное сообщество в Slack (EN)](https://aka.ms/pwa-slack)
 
 ## PWA в популярных фреймворках и инструментах (EN)
 
