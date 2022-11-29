@@ -90,6 +90,7 @@
 
 * https://t.me/pwa_ru — русскоязычное сообщество PWA в Telegram
 * https://progressive-web-apps.slack.com — глобальное сообщество PWA в Slack
+* https://bit.ly/discord-pwa — глобальное сообщество PWA в Discord
 * https://aka.ms/pwabuilderdiscord — глобальное сообщество PWABuilder в Discord
 * https://chromiumdev.slack.com — глобальное сообщество Chromium в Slack
 * https://chromium.slack.com — глобальное сообщество Chromium в Slack
