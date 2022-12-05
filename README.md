@@ -1,4 +1,11 @@
-# ModernWebLive #4: PWA 5 лет
+# Awesome PWA RU
+
+## Другие подборки Awesome PWA
+
+* https://github.com/hemanth/awesome-pwa
+* https://github.com/TalAter/awesome-progressive-web-apps
+* https://github.com/hzzheng/awesome-pwa
+* https://pwaresources.dev
 
 ## Web API и тесты поддержки Web API в браузерах
 
@@ -78,13 +85,6 @@
 
 * [Web Push Book](https://web-push-book.gauntface.com)
 * [Service Worker Cookbook](https://serviceworke.rs)
-
-## Подборки Awesome PWA
-
-* https://github.com/hemanth/awesome-pwa
-* https://github.com/TalAter/awesome-progressive-web-apps
-* https://github.com/hzzheng/awesome-pwa
-* https://pwaresources.dev
 
 ## Площадки для обсуждения
 
