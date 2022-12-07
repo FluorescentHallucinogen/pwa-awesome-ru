@@ -12,6 +12,7 @@
 * https://whatwebcando.today
 * https://whatpwacando.today
 * https://tomayac.github.io/pwa-feature-detector/
+* https://mefody.github.io/fugu-detector/
 * https://jakearchibald.github.io/isserviceworkerready/
 * https://permission.site
 * https://immersive-web.github.io/webxr-samples/tests/permission-request.html
