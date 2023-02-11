@@ -11,6 +11,7 @@
 
 * https://whatwebcando.today
 * https://whatpwacando.today
+* https://howfuguismybrowser.dev (https://chrome.google.com/webstore/detail/how-fugu-is-the-web/apcghpabklkjjgpfoplnglnjghonjhdl)
 * https://tomayac.github.io/pwa-feature-detector/
 * https://mefody.github.io/fugu-detector/
 * https://jakearchibald.github.io/isserviceworkerready/
