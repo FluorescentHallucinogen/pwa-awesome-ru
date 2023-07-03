@@ -89,6 +89,7 @@
 
 ## Карманные справочники
 
+* [Web Push and Notifications on web.dev](https://web.dev/notifications/)
 * [Web Push Book](https://web-push-book.gauntface.com)
 * [Service Worker Cookbook](https://serviceworke.rs)
 
