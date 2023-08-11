@@ -7,6 +7,12 @@
 * https://github.com/hzzheng/awesome-pwa
 * https://pwaresources.dev
 
+## Case Studies
+
+* https://www.pwastats.com
+* https://web.dev/tags/case-study/
+* https://pwa-book.awwwards.com
+
 ## Web API и тесты поддержки Web API в браузерах
 
 * https://whatwebcando.today
@@ -145,10 +151,6 @@
 ## Истории успеха
 
 * [Как мы запустили offline-версию сайта RG.RU](https://habr.com/ru/company/oleg-bunin/blog/348150/)
-* [How ZDF created a video PWA with offline and dark mode (EN)](https://web.dev/zdf/)
-* [How OpenSooq increased engagement by investing in the web (EN)](https://web.dev/opensooq-case-study/)
-* [OYO Lite: a TWA with the best of web and Android apps](https://web.dev/oyo-lite-twa/)
-* [How Goibibo's PWA improved conversions by 60%](https://web.dev/goibibo/)
 
 ## Примеры PWA
 
