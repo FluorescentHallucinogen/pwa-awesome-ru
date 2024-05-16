@@ -31,6 +31,7 @@
 * https://killer-marmot.appspot.com
 * https://html5test.com
 * https://wpt.fyi
+* https://webstatus.dev
 * https://caniuse.com
 * https://chromestatus.com
 * https://goo.gle/fugu-api-tracker
