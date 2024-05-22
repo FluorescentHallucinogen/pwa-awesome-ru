@@ -29,6 +29,7 @@
 * https://tests.peter.sh/push-encryption-verifier/
 * https://mozilla-services.github.io/WebPushDataTestPage/
 * https://killer-marmot.appspot.com
+* https://edgepwaone.azurewebsites.net
 * https://html5test.com
 * https://wpt.fyi
 * https://webstatus.dev
