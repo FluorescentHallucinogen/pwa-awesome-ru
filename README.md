@@ -31,6 +31,7 @@
 * https://killer-marmot.appspot.com
 * https://edgepwaone.azurewebsites.net
 * https://html5test.com
+* https://canwe.dev
 * https://wpt.fyi
 * https://webstatus.dev
 * https://caniuse.com
