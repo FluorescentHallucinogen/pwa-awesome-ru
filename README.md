@@ -238,6 +238,7 @@ DO (Desktop only) — установка приложения доступна �
 ## Каталоги PWA
 
 * https://store.app
+* https://discover.apps.chrome
 * https://pwa-directory.appspot.com
 * https://appsco.pe
 * https://outweb.mariusclaret.com
