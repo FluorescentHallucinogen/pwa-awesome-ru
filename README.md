@@ -36,8 +36,11 @@
 * https://webstatus.dev
 * https://caniuse.com
 * https://chromestatus.com
+* https://webkit.org/standards-positions/
+* https://mozilla.github.io/standards-positions/
 * https://goo.gle/fugu-api-tracker
 * https://kangax.github.io/compat-table/es6/
+* https://github.com/MicrosoftEdge/MSEdgeExplainers
 * https://github.com/PWA-POLICE/pwa-bugs
 
 ## Источники информации
