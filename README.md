@@ -34,7 +34,10 @@
 * https://canwe.dev
 * https://wpt.fyi
 * https://webstatus.dev
+* https://web-features.lttr.cz
 * https://caniuse.com
+* https://caniwebview.com
+* https://bcd-watch.igalia.com
 * https://chromestatus.com
 * https://webkit.org/standards-positions/
 * https://mozilla.github.io/standards-positions/
