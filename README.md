@@ -255,6 +255,7 @@ DO (Desktop only) — установка приложения доступна �
 * https://findpwa.com
 * https://pwainside.com
 * https://progressiveapp.store
+* https://pwa.directory
 
 * Samsung Galaxy Store
 * Microsoft Store
