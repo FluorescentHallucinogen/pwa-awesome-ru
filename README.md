@@ -246,15 +246,13 @@ DO (Desktop only) — установка приложения доступна �
 
 ## Каталоги PWA
 
-* https://store.app
 * https://discover.apps.chrome
-* https://pwa-directory.appspot.com
-* https://appsco.pe
 * https://outweb.mariusclaret.com
 * https://pwa-store.web.app
 * https://findpwa.com
 * https://pwainside.com
 * https://progressiveapp.store
+* https://pwa.directory
 
 * Samsung Galaxy Store
 * Microsoft Store
